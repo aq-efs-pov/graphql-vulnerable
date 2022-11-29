@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-
+# Simple comment to test PR
 LABEL description="Damn Vulnerable GraphQL Application"
 LABEL github="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application"
 LABEL maintainers="Dolev Farhi & Connor McKinnon"
